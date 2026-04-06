@@ -1,3 +1,17 @@
+# create an empty list
+groceries = []
+
+# add "milk" and print the list
+groceries.append("milk")
+print(groceries)
+
+# add "eggs" and print the list
+groceries.append("eggs")
+print(groceries)
+
+# add "bread" and print the list
+groceries.append("bread")
+print(groceries)
 # start with the initial list
 numbers = [10, 30, 40]
 
